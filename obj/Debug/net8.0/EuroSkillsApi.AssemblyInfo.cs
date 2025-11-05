@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EuroSkillsApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a940435ca8ecc7f414b5b972e8c3e06161d650b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb3f11bae13be9b4cb111ee6e5a7afae2dbc6340")]
 [assembly: System.Reflection.AssemblyProductAttribute("EuroSkillsApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EuroSkillsApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
